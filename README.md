@@ -1,32 +1,40 @@
 # Layered Emergence Model (LEM)
 
-**Author:** Mohit Shaikh
+**Author:** Mohit Shaikh  
 **Status:** Conceptual Framework – Active Development  
-**Version:** v0.9-preprint
+**Version:** v1.0-conceptual
 
 ---
 
 ## Overview
 
-The **Layered Emergence Model (LEM)** is a generative cosmological framework that replaces curvature-based
-gravity and metric expansion with a simple, discrete, and symmetric process of layer creation. Each new
-layer expands the universe outward, stretches existing space, and introduces new matter with internal
-properties defined by **Tension (T)**, **Orientation (O)**, and **Response (R)**.
+The **Layered Emergence Model (LEM)** is a generative cosmological framework based on a minimal ontology:  
+a creation point from which **space and matter emerge continuously**, combined with local matter dynamics governed by  
+**Tension (T)**, **Orientation (O)**, and **Response (R)**.
 
-LEM provides a unified, minimal ontology capable of producing:
+LEM replaces curvature-based explanations with a **purely generative process** in which:
 
-- cosmological expansion without dark energy  
-- gravitational-like attraction without curvature  
-- early structure formation without dark matter  
-- isotropy without inflation  
-- redshift without metric expansion  
-- emergent force-like behaviors from T–O–R interactions  
+- space grows outward through continuous emergence  
+- matter does not stretch with space  
+- rotation at the origin imprints angular motion  
+- all dynamics arise from local T–O–R interactions  
 
-This repository contains the current manuscript and supporting documents for the theory.
+From this minimal structure, LEM provides conceptual explanations for:
+
+- expansion without metric curvature  
+- redshift through cumulative wavelength stretching  
+- vacuum dominance through geometric dilution  
+- large-scale isotropy from a single generative origin  
+- filament-like structural tendencies from local alignment  
+- force-like behaviors emerging from T–O–R dynamics  
+
+LEM is presented as a **conceptual framework**, not a completed physical theory.  
+It establishes the generative ontology and qualitative laws on which future mathematical and computational work can build.
 
 ---
 
 ## Repository Contents
+
 ```
 docs/
  ├── LEM.html   # Full manuscript (HTML)
@@ -39,32 +47,36 @@ README.md       # This file
 
 ## Current Status
 
-LEM is currently in the **conceptual and mathematical development phase**.  
-The simulation component (PyQt6-based visual model) will be added in a future update.
+LEM is currently in the **conceptual and mathematical development phase**.
 
-The current documents represent:
+The repository includes:
 
-- the full theoretical formulation  
-- axioms and laws of LEM  
-- observational consequences  
+- the full conceptual formulation  
+- ontology and axioms  
+- generative laws  
+- derived consequences  
+- observational correspondences  
 - open questions  
 - future research directions  
+
+A simulation component (Python-based visualization of continuous emergence and T–O–R dynamics) is planned for a future update.
 
 ---
 
 ## Goals of the Project
 
 - Establish LEM as a coherent generative cosmological framework  
-- Provide a clear alternative to curvature-based cosmology  
-- Develop a simulation that visualizes layer creation and T–O–R dynamics  
-- Explore emergent classical forces within the T–O–R structure  
+- Develop mathematical formulations of continuous emergence and T–O–R dynamics  
+- Build simulations to explore structural tendencies and vacuum evolution  
+- Investigate connections between emergent T–O–R behavior and classical forces  
 - Prepare for eventual preprint submission (e.g., arXiv)  
 
 ---
 
 ## License
 
-This project is released under the **Creative Commons Attribution–NonCommercial 4.0 International License (CC BY-NC 4.0)**.  
+This project is released under the  
+**Creative Commons Attribution–NonCommercial 4.0 International License (CC BY-NC 4.0)**.  
 See the `LICENSE` file for full terms.
 
 ---
@@ -78,5 +90,3 @@ A formal citation format will be added once the first preprint version is releas
 ## Contact
 
 For questions or collaboration inquiries, please open an Issue on this repository.
-
-
